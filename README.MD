@@ -5,18 +5,25 @@
 
 | Feature | Status |
 | ------ | ------ |
-| Implementar tela da página inicial | :white_large_square: |
-| Criar tela de configurações da página | [plugins/github/README.md][PlGh] |
-| Implementar model do Admnistrador | [plugins/medium/README.md][PlMe] |
-| Implementar sistema de Login | [plugins/onedrive/README.md][PlOd] |
-| Implementar UPLOAD de arquivo | [plugins/medium/README.md][PlMe] |
-| Implementar cadastro de palestrante & ministrante de curso | [plugins/medium/README.md][PlMe] |
-| Implementar cadastro de minicurso e/ou palestra | [plugins/medium/README.md][PlMe] |
-| Implementar cadastro do usuário em cursos | [plugins/medium/README.md][PlMe] |
-| Implantação CI/CD - escrever testes | [plugins/medium/README.md][PlMe] |
+| Implementar tela da página inicial | [] |
+| Criar tela de configurações da página | [] |
+| Implementar model do Admnistrador | [] |
+| Implementar sistema de Login | [] |
+| Implementar UPLOAD de arquivo | [] |
+| Implementar cadastro de palestrante & ministrante de curso | [] |
+| Implementar cadastro de minicurso e/ou palestra | [] |
+| Implementar cadastro do usuário em cursos | [] |
+| Implantação CI/CD - escrever testes | [] |
+| Implementar Disparo de e-mails | [] |
+| Implementar geracão automática de certificados | [] |
 
+
+
+todas as features acima seguiram uma ordem a ser definido ainda.
 
 
 Toda implementação está ocorrendo na branch DEV e depois de confirmanda e feito o merge com a main
+
+arquivo venv com alguns dados de configuracao, como url e tals - para implantacao
 
 https://github.com/Francisco-Jair/site_eventos_sinemidia
