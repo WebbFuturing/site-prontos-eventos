@@ -13,6 +13,7 @@
 | Implementar cadastro de palestrante & ministrante de curso | [plugins/medium/README.md][PlMe] |
 | Implementar cadastro de minicurso e/ou palestra | [plugins/medium/README.md][PlMe] |
 | Implementar cadastro do usuário em cursos | [plugins/medium/README.md][PlMe] |
+| Implantação CI/CD - escrever testes | [plugins/medium/README.md][PlMe] |
 
 
 
