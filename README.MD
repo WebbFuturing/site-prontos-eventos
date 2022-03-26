@@ -5,7 +5,7 @@
 
 | Feature | Status |
 | ------ | ------ |
-| Implementar tela da página inicial | [] |
+| Implementar tela da página inicial | [ X ] |
 | Criar tela de configurações da página | [] |
 | Implementar model do Admnistrador | [] |
 | Implementar sistema de Login | [] |
