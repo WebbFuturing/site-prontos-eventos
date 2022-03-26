@@ -6,6 +6,7 @@
 | Feature | Status |
 | ------ | ------ |
 | Implementar tela da página inicial | [X] |
+| Ajeitar arquivos da página frontend | [] |
 | Criar tela de configurações da página | [] |
 | Implementar model do Admnistrador | [] |
 | Implementar sistema de Login | [] |
