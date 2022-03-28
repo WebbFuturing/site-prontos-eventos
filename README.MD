@@ -6,9 +6,9 @@
 | Feature | Status |
 | ------ | ------ |
 | Implementar tela da página inicial | [X] |
-| Ajeitar arquivos da página frontend | [] |
+| Ajeitar arquivos da página frontend | [X] |
 | Criar tela de configurações da página | [] |
-| Implementar model do Admnistrador | [] |
+| Implementar model do Administrador | [] |
 | Implementar sistema de Login | [] |
 | Implementar UPLOAD de arquivo | [] |
 | Implementar cadastro de palestrante & ministrante de curso | [] |
