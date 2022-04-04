@@ -7,9 +7,11 @@
 | ------ | ------ |
 | Implementar tela da página inicial | ✅ |
 | Ajeitar arquivos da página frontend | ✅ |
+| Implementar model do Administrador | [correção] |
+| Implementar model do Cores | [] |
+| Implementar load de dados das cores | [] |
 | Implementar model de configurações da página | [] |
 | Implementar tela de configurações da página | [] |
-| Implementar model do Administrador | [] |
 | Implementar sistema de Login | [] |
 | Implementar UPLOAD de arquivo | [] |
 | Implementar cadastro de palestrante & ministrante de curso | [] |
