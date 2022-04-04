@@ -7,6 +7,7 @@
 | ------ | ------ |
 | Implementar tela da página inicial | ✅ |
 | Ajeitar arquivos da página frontend | ✅ |
+| Implementar model de configurações da página | [] |
 | Implementar tela de configurações da página | [] |
 | Implementar model do Administrador | [] |
 | Implementar sistema de Login | [] |
